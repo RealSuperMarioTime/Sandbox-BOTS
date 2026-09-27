@@ -6,7 +6,7 @@ Inspired by StarFrost, I wanted to recreate these human-like players that are ac
 
 ## How to spawn them?
 1. Go to **Options** -> **Keyboard** -> **Toggle developer console**
-2. In the console, type: `SandboxBOTS_add`
+2. In the console, type: `SandboxBOTS_Add`
 
 ## How to kick them all?
 In the console, type: `SandboxBOTS_KickAll`
